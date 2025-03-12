@@ -1,40 +1,39 @@
-# Primeflix — Plataforma de Filmes
+# Primeflix — Movie Platform
 
-Este projeto é uma aplicação React integrada à API TheMovieDB, que oferece uma experiência completa para os amantes de cinema. Com o Primeflix, você pode explorar listas de filmes, conferir avaliações, criar suas próprias listas personalizadas e assistir aos trailers dos seus filmes favoritos via YouTube.
+This project is a React application integrated with the TheMovieDB API that offers a complete experience for movie lovers. With Primeflix, you can explore movie lists, check ratings, create your own personalized lists, and watch trailers of your favorite films via YouTube.
 
-## Funcionalidades
+## Features
 
-- **Exibição de Filmes e Avaliações**: Navegue por diversas listas de filmes com informações detalhadas e avaliações.
-- **Listas Personalizadas**: Crie e gerencie suas próprias listas de filmes para acompanhar seus favoritos.
-- **Acesso a Trailers**: Assista aos trailers dos filmes diretamente pelo YouTube.
-- **Interface Responsiva**: Experiência de uso otimizada em qualquer dispositivo, graças à interface moderna desenvolvida com TailwindCSS.
+- **Movie Display and Reviews**: Browse through various movie lists with detailed information and ratings.
+- **Custom Lists**: Create and manage your own movie lists to keep track of your favorites.
+- **Trailer Access**: Watch movie trailers directly on YouTube.
+- **Responsive Interface**: Enjoy an optimized user experience on any device, thanks to the modern interface developed with TailwindCSS.
 
-## Como Funciona
+## How It Works
 
-1. O usuário acessa a aplicação Primeflix e explora as listas de filmes disponíveis.
-2. A aplicação consulta a API TheMovieDB para exibir dados atualizados sobre filmes, incluindo avaliações e detalhes.
-3. É possível criar listas personalizadas para organizar seus filmes preferidos.
-4. Ao selecionar um filme, o usuário pode acessar trailers via YouTube, além de informações completas sobre o título.
+1. The user accesses the Primeflix application and explores the available movie lists.
+2. The application queries the TheMovieDB API to display up-to-date movie data, including ratings and details.
+3. You can create custom lists to organize your favorite films.
+4. By selecting a movie, the user can watch trailers on YouTube, along with accessing complete information about the title.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **React**: Biblioteca JavaScript para a construção da interface do usuário.
-- **TheMovieDB API**: Fonte de dados para filmes, avaliações e demais informações.
-- **TailwindCSS**: Framework CSS para um design moderno e responsivo.
+- **React**: A JavaScript library for building user interfaces.
+- **TheMovieDB API**: A data source for movies, ratings, and additional information.
+- **TailwindCSS**: A CSS framework for a modern and responsive design.
 
-## Como Começar
-
-Para iniciar com o projeto, siga as instruções abaixo:
+## How to Get Started
 
 ```bash
-# Clone o repositório
+# Clone the repository
 git clone https://github.com/rodrigodiasz/primeflix.git
 
-# Navegue até o diretório do projeto
+# Navigate to the project directory
 cd primeflix
 
-# Instale as dependências
+# Install the dependencies
 npm install
 
-# Execute a aplicação
+# Run the application
 npm start
+```
